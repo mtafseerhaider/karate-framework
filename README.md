@@ -61,7 +61,7 @@ Just like in any other framework we have properties files which holds all the co
 Read more on: https://github.com/intuit/karate#configuration
 
 
-## SprintQA Karate Framework Tests Reports
+## Karate Framework Tests Reports
 
 - **target/cucumber-html-reports** folder contains overview-features.htnl report for all our tests.
 - **target/surefire-reports** folder contains karate-summary.html report for all our tests.     
